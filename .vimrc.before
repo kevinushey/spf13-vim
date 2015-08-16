@@ -24,6 +24,9 @@
     " Prevent automatically changing to open file directory
     "   let g:spf13_no_autochdir = 1
 
+    " Disable spellchecking
+    "   let g:spf13_no_spellcheck = 1
+
     " Disable views
     "   let g:spf13_no_views = 1
 
